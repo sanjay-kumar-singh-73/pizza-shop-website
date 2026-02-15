@@ -337,21 +337,21 @@ header button:hover {
 }
 
 .contact .mainform form input {
-    padding: 10px;
+    padding:15px;
     width: 440px;
     border: none;
     outline: none;
-    /* box-shadow:0 0 5px yellow; */
-    border-radius: 10px;
+    font-weight:bold;
+    border-radius:5px;
 }
 
 .contact .mainform form textarea {
-    padding: 10px;
+    padding:5px;
     width: 440px;
     border: none;
+    font-weight:bold;
     outline: none;
-    /* box-shadow:0 0 5px yellow; */
-    border-radius: 10px;
+    border-radius:5px;
 }
 
 .contact .mainform form button {
